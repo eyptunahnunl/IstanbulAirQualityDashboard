@@ -1,0 +1,26 @@
+#map1 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 98%;
+    height: 90%;
+    margin-top: 58px;
+    margin-right: 25px;
+
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.marker {
+    background-image: url('/images/placeholder.png');
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    border-radius: 60%;
+    cursor: pointer;
+
+}
+
+
+
