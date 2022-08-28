@@ -15,10 +15,29 @@ At "Average AQI over the Past Year" panel, users can access the average AQI valu
 
 
 
+## Installation
+
+#Application is facing <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS">CORS policy</a> due to API use <a href="https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf">Chrome extension</a> for a workaround
+
+##Libraries
 
 
-
-
+<ul>
+  <li>
+    <a href="https://www.chartjs.org/">Chart Js</a>
+</li>
+  <li>
+     <a href="https://www.mapbox.com/">Mapbox GL JS</a>
+  </li>
+  
+    <li>
+     <a href="https://getbootstrap.com/">Bootstrap 4.1 </a>
+  </li>
+  
+  <li>
+     <a href="https://fontawesome.com/">Other css libraries </a>
+  </li>
+</ul>
 
 
 
