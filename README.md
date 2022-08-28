@@ -17,7 +17,7 @@ At "Average AQI over the Past Year" panel, users can access the average AQI valu
 
 ## Installation
 
-# Application is facing <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS">CORS policy</a> due to API use <a href="https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf">Chrome extension</a> for a workaround
+### Application is facing <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS">CORS policy</a> due to API use <a href="https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf">Chrome extension</a> for a workaround
 
 ## Libraries
 
