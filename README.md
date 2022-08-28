@@ -7,3 +7,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1>License</h1>
+IstanbulAirQuality is free software and may be redistributed under the MIT-LICENSE.
+
