@@ -9,8 +9,9 @@ Designed open source AQI Dashboard provides real-time and historical AQI value a
 
 <p>“Real Time AQI” provides the real-time AQI and pollutant concentrations data provided by the Istanbul Metropolitan Municipality for AQI stations in Istanbul. When the user selects a station on the map, real-time AQI values with their explanation statements are provided with the concentration and AQI value of each pollutant together with the contaminant parameter of the selected station. </p>
 
+"Average AQI by Station and Time Period" panel represents the average AQI and pollutant concentration values for a particular station throughout the chosen time period. In this panel firstly users select a station and a time period. According to the chosen time period average AQI and pollutant concentration values are calculated and graphed. 
 
-
+At "Average AQI over the Past Year" panel, users can access the average AQI values of the last year with bubble graphs scaled based upon the size of the value. In this way the distribution and change trend of the air quality in Istanbul can be obtained.
 
 
 
