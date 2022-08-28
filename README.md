@@ -45,6 +45,11 @@ At "Average AQI over the Past Year" panel, users can access the average AQI valu
 
 
 
-# License
+# MIT License
+
+
+
+Copyright (c) 2022 Eyup Tunahan Unal
+
 IstanbulAirQuality is free software and may be redistributed under the MIT-LICENSE.
 
