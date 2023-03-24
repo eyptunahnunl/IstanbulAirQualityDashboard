@@ -1,7 +1,7 @@
 import { GetLiveQuery } from './Getresult.js';
 import { DisplayResult } from './DisplayResult.js';
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiZXlwdHVuYWhudW5sIiwiYSI6ImNrb20xM2J2OTBjeXkycHBuanlwYjB3azcifQ.bUxT3O6gle3hDch4sJekpw';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZXlwdHVuYWhudW5sIiwiYSI6ImNsZm1hdDc1YzA5cTIzc25yaW1hMHhtYnUifQ.sGlePmA1cORpq49bE_MPGQ';
 
 async function getStations(url) {
 
